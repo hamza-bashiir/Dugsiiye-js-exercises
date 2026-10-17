@@ -8,7 +8,7 @@ add(30,50);
 add(20,35);
 add(50,9);
 
-let add = function(){
+let add = function(a,b){
     console.log(a+b);
 }
 
